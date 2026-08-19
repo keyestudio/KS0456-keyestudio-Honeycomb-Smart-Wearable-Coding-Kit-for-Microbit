@@ -6,8 +6,6 @@ In the above projects, we’ve introduced each sensor module. We now combine tho
 
 In this project, we would like to turn an LED on and off via a tactile button.
 
-![](media/image-20260124095632927.png)
-
 **2.Components Required**
 
 -   Micro:bit main board \*1

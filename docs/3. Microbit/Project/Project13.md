@@ -10,8 +10,6 @@ There are total 6 rings on the module, namely two G rings, two V rings and two S
 
 When using, G ring is for ground; V for 3V; S for signal pin (0 1 2). When the signal end is HIGH, LED lights.
 
-![](media/image-20260123111255834.png)
-
 **2.Technical Parameters**
 
 -   Working voltage: DC 3.0-3.3V

@@ -12,8 +12,6 @@ Different frequencies produce different sounds. Even can code the melody of a so
 
 There are total 6 rings on the module. Note that two G rings, two V rings and two S rings are connected. G for ground; V for 3V; S for signal pin(0 1 2).
 
-![](media/image-20260123145952776.png)
-
 When using, connect the module to micro:bit control board using Crocodile clip line.
 
 **2.Technical Parameters**

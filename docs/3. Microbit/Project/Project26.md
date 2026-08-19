@@ -6,8 +6,6 @@ In the above projects, we’ve introduced each sensor module. We now combine tho
 
 In this project, you will learn how to trigger the RGB light shining colors based on the measured analog value of ambient light.
 
-![](media/image-20260124141500683.png)
-
 **2.Components Required**
 
 -   Micro:bit main board \*1

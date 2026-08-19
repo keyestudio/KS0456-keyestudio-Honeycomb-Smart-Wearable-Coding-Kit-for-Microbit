@@ -8,8 +8,6 @@ This module mainly contains a 5050 RGB LED, fully compatible with micro:bit cont
 
 There are total 6 rings on the module. Note that three V rings are connected. V ring for 3V; R G B ring is separately connected to signal pin (0 1 2) of micro:bit main board.
 
-![](media/image-20260123112447583.png)
-
 When three signal pins are LOW, this module gradually shows red, green and blue light.
 
 **2.Technical Parameters**

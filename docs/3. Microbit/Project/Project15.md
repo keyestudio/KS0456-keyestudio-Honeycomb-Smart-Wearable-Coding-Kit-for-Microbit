@@ -8,8 +8,6 @@ This keyestudio tactile button module is fully compatible with micro:bit control
 
 There are total 6 rings on the module. Note that two G rings, two V rings and two S rings are connected. G for ground; V for 3V; S for signal pin(0 1 2).When press the button, the signal end of micro:bit main board will input HIGH level signal.
 
-![](media/image-20260123121052319.png)
-
 **2.Technical Parameters**
 
 -   Working voltage: DC 3.0-3.3V

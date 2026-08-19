@@ -4,8 +4,6 @@ In the above projects, we’ve introduced each sensor module. We now combine tho
 
 In this project, we are going to turn RGB LED alternately on red, green and blue via capacitive touch control.
 
-![](media/image-20260124102354858.png)
-
 **2.Components Required**
 
 -   Micro:bit main board \*1

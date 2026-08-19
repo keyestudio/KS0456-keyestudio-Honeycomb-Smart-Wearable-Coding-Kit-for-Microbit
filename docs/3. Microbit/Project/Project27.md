@@ -6,8 +6,6 @@ In the above projects, we’ve introduced each sensor module. We now combine tho
 
 In this project, you will learn how to make a buzzer play different tones with a tactile button.
 
-![](media/image-20260126092853742.png)
-
 **2.Components Required:**
 
 -   Micro:bit main board \*1

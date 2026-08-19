@@ -6,8 +6,6 @@
 
 This keyestudio TEMT6000 light module is fully compatible with micro:bit control board.
 
-![](media/image-20260123134829814.png)
-
 This module is mainly composed of a highly sensitive visible photocell (NPN type) triode, which can magnify the captured tiny light illumination changes by about 100 times, and is easily recognized by the microcontroller for AD conversion.
 
 Its response to visible light illumination is similar to that of the human eye, so that can detect the intensity of ambient light.

@@ -6,8 +6,6 @@ In the above projects, we’ve introduced each sensor module. We now combine tho
 
 In this project, you will learn how to make a buzzer play different tones based on the measured analog value of both ambient light and microphone sound.
 
-![](media/image-20260124113033762.png)
-
 **2.Components Required**
 
 -   Micro:bit main board \*1

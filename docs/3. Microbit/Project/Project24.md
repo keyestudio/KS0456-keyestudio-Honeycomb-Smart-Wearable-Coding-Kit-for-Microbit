@@ -6,8 +6,6 @@ In the above projects, we’ve introduced each sensor module. We now combine tho
 
 In this project, you will learn how to trigger a buzzer alarm when detecting someone moving nearby.
 
-![](media/image-20260124111700200.png)
-
 **2.Components Required**
 
 -   Micro:bit main board \*1

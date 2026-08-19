@@ -8,8 +8,6 @@ This keyestudio capacitive touch module is fully compatible with micro:bit contr
 
 There are total 6 rings on the module. Note that two G rings, two V rings and two S rings are separately connected. G for ground; V for 3V; S for signal pin(0 1 2).
 
-![](media/image-20260123121751590.png)
-
 It mainly uses touch detection IC, which is a digital signal output device.
 
 The touch detection IC is designed to replace the traditional button with a variable area key, featuring low power consumption and wide operating voltage.

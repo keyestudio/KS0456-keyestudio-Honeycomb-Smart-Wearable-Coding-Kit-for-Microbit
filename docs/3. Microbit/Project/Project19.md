@@ -8,8 +8,6 @@ This keyestudio microphone module is fully compatible with micro:bit control boa
 
 It is mainly composed of a MIC head, a LM358D chip and a potentiometer.
 
-![](media/image-20260123145113758.png)
-
 When the microphone detects sound, and converts it into a voltage signal; then amplifies it through the LM358D chip.
 
 The potentiometer is used to adjust the signal amplification.

@@ -8,8 +8,6 @@ It's what you've been waiting for, the keyestudio Edge Connector IO Breakout Boa
 
 Want to connect a bunch of sensors and modules to micro:bit development board? Try this keyestudio Edge Connector IO Breakout Board.
 
-![](media/image-20260124093430676.png)
-
 This breakout board has been designed to offer an easy way to connect additional circuits and Components to the edge connector on the BBC micro:bit.
 
 It provides an easy way of connecting circuits using Alligator clip lines.

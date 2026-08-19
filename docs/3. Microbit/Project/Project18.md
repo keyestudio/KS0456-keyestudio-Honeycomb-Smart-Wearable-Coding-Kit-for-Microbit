@@ -6,8 +6,6 @@
 
 This keyestudio PIR motion module is fully compatible with micro:bit control board.It is mainly composed of a digital pyroelectric infrared sensor, which is a digital signal output device.
 
-![](media/image-20260123135457835.png)
-
 This sensor has built-in filters, strong anti-interference, low voltage and micro power consumption. The detection distance of the module is 3-5 meters.
 
 The detection angle in the horizontal direction is less than 80°; the detection angle in the vertical direction is less than 55°.
